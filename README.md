@@ -22,6 +22,16 @@ their tickets.
 ![image](https://github.com/Augustine0306/Lab-3-Railway-Reservation/assets/119404460/c946f72a-4361-415c-94d3-8a4a625f3e14)
 ### USECASE DIAGRAM:
 ![image](https://github.com/Augustine0306/Lab-3-Railway-Reservation/assets/119404460/02307ad7-1238-4ce0-9236-950fc772c5b4)
+### communication diagram:
+![image](https://github.com/user-attachments/assets/323ad320-1f30-46ef-ac31-e19c981fef86)
+### Sequence diagram
+![image](https://github.com/user-attachments/assets/b48ad69c-bee5-4bc9-9c82-d87f1af87a07)
+### Package diagram
+
+![image](https://github.com/user-attachments/assets/739c9458-7309-4cb8-a9f8-35d43fc9e8d2)
+
+### Activity diagram:
+![image](https://github.com/user-attachments/assets/1750289a-0cfd-4f0f-9f6e-4c852e3fa084)
 
 
 
